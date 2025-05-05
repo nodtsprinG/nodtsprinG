@@ -1,4 +1,7 @@
 <h1 align="center">Hallo 👋, I'm Aiko</h1>
+
+---
+
 <div align="center">
   <img src="https://media2.giphy.com/media/cLiOAvpdFZqAo/giphy.gif" width="500"/>
 </div>
@@ -19,7 +22,6 @@
 
 ### 🎵 My Spotify (Recently Played)
 
-<!-- Replace username here with correct Spotify USERNAME -->
 <p align="center">
   <a href="https://open.spotify.com/user/x0p8yfdw7c73zbvd99lbajt4s">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=x0p8yfdw7c73zbvd99lbajt4s&count=5&unique=false" alt="Spotify Recently Played" />
@@ -34,16 +36,18 @@
   <a href="https://www.facebook.com/kido.quickdraw" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://x.com/jjoaiko_" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
-  </a>
   <a href="https://www.instagram.com/ndtspring/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:jokoaiko8b@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  <a href="https://x.com/jjoaiko_" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
 </p>
+
+---
 
 <img src="https://raw.githubusercontent.com/nodtsprinG/nodtsprinG/output/snake.svg" alt="Snake animation" />
 
