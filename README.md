@@ -23,8 +23,8 @@
 
 <!-- Replace username here with correct Spotify USERNAME -->
 <p align="center">
-  <a href="https://open.spotify.com/Aikocak">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Aikocak&count=5&unique=false" alt="Spotify Recently Played" />
+  <a href="https://open.spotify.com/user/x0p8yfdw7c73zbvd99lbajt4s">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=x0p8yfdw7c73zbvd99lbajt4s&count=5&unique=false" alt="Spotify Recently Played" />
   </a>
 </p>
 
