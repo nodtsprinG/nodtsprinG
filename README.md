@@ -46,3 +46,6 @@
   </a>
 </p>
 
+<img src="https://raw.githubusercontent.com/nodtsprinG/nodtsprinG/output/snake.svg" alt="Snake animation" />
+
+###
