@@ -21,15 +21,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nodtsprinG&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nodtsprinG&layout=compact&theme=radical" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nodtsprinG&layout=compact&theme=radical" width="400"/>
 </div>
-
----
-
-## 📫 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio.com)
 
 ---
